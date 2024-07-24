@@ -1,0 +1,6 @@
+# Игнорировать файлы конфигурации в src/main/resources/
+src/main/resources/config.properties
+src/main/resources/google-sheets-credentials.json
+/src/test/resources/config.properties
+/src/test/resources/google-sheets-credentials.json
+/target/
